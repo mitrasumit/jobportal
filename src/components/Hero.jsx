@@ -16,6 +16,6 @@ return(
   </div>
 </div>
 </section>
-);
-};
+)
+}
 export default Hero;

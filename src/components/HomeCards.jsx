@@ -33,6 +33,6 @@ const HomeCards=()=>{
         </div>
       </div>
     </section>
-    );
+    )
 };
 export default HomeCards;
